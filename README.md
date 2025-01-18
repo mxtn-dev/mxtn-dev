@@ -1,6 +1,6 @@
 ## Maksim Talbushkin
 
-@mxtndev
+@mxtndev</p>
 Backend developer С, Rust
 
 #### Репозитории
