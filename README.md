@@ -5,11 +5,11 @@ Backend developer С, Rust
 
 #### Репозитории
 
-[Matreshka](https://github.com/x0fibonacci/Matreshka)</p>
+[Matreshka](https://github.com/mxtn-dev/Matreshka)</p>
 
 Решение для оркестрации PostgreSQL и обеспечения высокой доступности (автофейловера) кластеров Leader-Followers конфигурации.
 
-[R7Routing](https://github.com/x0fibonacci/R7Routing)</p>
+[R7Routing](https://github.com/mxtn-dev/R7Routing)</p>
 
 Набор протоколов интернет-маршрутизации с открытым исходным кодом для платформ Linux и Unix. Он реализует BGP, OSPF, RIP, IS-IS, PIM, LDP, BFD, Babel, PBR, OpenFabric и VRRP, а также поддерживает EIGRP и NHRP.
 
